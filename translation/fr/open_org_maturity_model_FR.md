@@ -22,8 +22,9 @@ Dans les organisations fermées, les individus et les équipes ne partagent que 
 ### Niveau 2
 
   * Les individus et les équipes rendent les informations non-sensibles et en lien avec le projet accessibles à tous les participants, en suivant un protocole commun clairement défini.
+  * Les individus ont le sentiment d'être informés et de participer à la plupart des décisions importantes (mais pas toutes), et peuvent y contribuer durant leur développement.
   * Des éléments pris en compte dans les prises de décision sont accessibles à différentes étapes préétablies du projet.
-  *  Les individus et les équipes parlent avec aisance des précédents succès *et* des échecs lors des révisions et lors des réunions rétrospectives.
+  * Les individus et les équipes parlent avec aisance des précédents succès *et* des échecs lors des révisions et lors des réunions rétrospectives.
   * L'organisation soutient et encourage l'utilisation d'un dépôt commun visant à regrouper les informations et le savoir collectif. Les membres y ont accès et certain d'entre eux y contribuent activement.
   * Les individus et les équipes gardent pour eux des informations sensibles et des ressources. Ils ne définissent pas clairement quelles informations ils ne partagent pas. Ils ne fournissent ni les détails, ni le contexte, ni l'étendue des informations retenues.
 
@@ -43,17 +44,17 @@ Dans les organisations fermées, les individus manquent de canaux de communicati
 ### Niveau 1
 
   * L'organisation est en train de mettre en place des lignes de conduite internes et des canaux de communication pour encourager les points de vue différents concernant les décisions de l'entreprise ou de ses départements, de sorte que tout le monde au sein de l'organisation soit en mesure de les utiliser.
-  * Les membres de l'organisation partagent des éléments de prise de décision sur des plate-formes officiellement approuvées, mais ces éléments sont le résultat d'une collaboration et d'un accord entre un nombre limité d'intervenants
-  * Quelques responsables, mais pas tous, sont ouverts à l'idée de recevoir des commentaires et de mettre en place un environnement dans lequel les gens se sentent libre de pouvoir le faire
-  * Les responsables maintiennent au moins un canal de communication clair et direct à l'attention des membres de l'organisation les invitant à partager des opinions constructives sur des questions relevant de leur travail ou sur lesquelles ils se sentent passionnés, mais ils montrent de la passivité à s'assurer que tous les membres se sentent habilités et autorisés à le faire
+  * Les membres de l'organisation partagent des éléments de prise de décision sur des plate-formes officiellement approuvées, mais ces éléments sont le résultat d'une collaboration et d'un accord entre un nombre limité d'intervenants.
+  * Quelques responsables, mais pas tous, sont ouverts à l'idée de recevoir des commentaires et de mettre en place un environnement dans lequel les gens se sentent libre de pouvoir le faire.
+  * Les responsables maintiennent au moins un canal de communication clair et direct à l'attention des membres de l'organisation les invitant à partager des opinions constructives sur des questions relevant de leur travail ou sur lesquelles ils se sentent passionnés, mais ils montrent de la passivité à s'assurer que tous les membres se sentent habilités et autorisés à le faire.
   * Les membres de l'organisation partagent des éléments via des canaux de communication privés ou des discussions.
-  * L'organisation encourage les dirigeants à prendre conscience des voix qui ne sont pas présentes dans le dialogue et à les rechercher activement pour les inclure
+  * L'organisation encourage les dirigeants à prendre conscience des voix qui ne sont pas présentes dans le dialogue et à les rechercher activement pour les inclure.
 
 ### Niveau 2
 
   * L'organisation a déjà mis en place des lignes de conduite internes et des canaux de communication pour encourager et solliciter des points de vue différents concernant les décisions prisent par l'organisation ou ses départements, de sorte que quiconque exerçant au sein de l'organisation soit en mesure d'en faire usage; et d'encourager expressément ces pratiques auprès de ceux et celles et ceux qui pourraient être réticents.
   * Les membres de l'organisation partagent des éléments de prise de décision sur des plate-formes officiellement approuvées et rendues accessibles par défaut.
-  * La plupart des responsables de l'organisation sont soutdisposéssoutouverts à l'idée de recevoir des commentaires et de mettre en place un environnement dans lequel les gens se sentent libres de pouvoir le faire, et peuvent démontrer que les procédures et les protocoles pour participer à des discussions à l'échelle de l'organisation sont collaboratives.
+  * La plupart des responsables de l'organisation sont ouverts à l'idée de recevoir des commentaires et de mettre en place un environnement dans lequel les gens se sentent libres de pouvoir le faire, et peuvent démontrer que les procédures et les protocoles pour participer à des discussions à l'échelle de l'organisation sont collaboratives.
   * Les membres de l'organisation ont la possibilité (au travers de procédés et de canaux de communication établis) de partager des opinions constructives sur toutes sortes de questions relatives à leur travail ou pour lesquelles ils ou elles se sentent passionné·es, mais le fait d'y être authorisé et encouragé n'est pas clair pour tous les membres.
   * Les responsables démontrent constamment leur volonté de donner suite et de répondre aux commentaires qu'ils ont reçu, généralement d'une manière telle que toutes les équipes sont en mesure de le voir.
   * Les membres de l'organisation partagent des éléments de façon transparente au travers de canaux de communication et autres méthodes facilitant les commentaires et les responsables les utilisent également et encouragent ouvertement les autres à en faire usage.
@@ -61,7 +62,7 @@ Dans les organisations fermées, les individus manquent de canaux de communicati
 
 ### Niveau 3
 
-  * L'organisation a soutétablisoutmis en place des lignes de conduites internes et des canaux de communication pour encourager et solliciter des points de vue différents sur les équipes ou les décisions, elle a adapté ces moyens en tenant compte des préférences de chacun en matière de commentaires, et elle a mis en place une équipe pour aider à les maintenir en fonctionnement.
+  * L'organisation a mis en place des lignes de conduites internes et des canaux de communication pour encourager et solliciter des points de vue différents sur les équipes ou les décisions, elle a adapté ces moyens en tenant compte des préférences de chacun en matière de commentaires, et elle a mis en place une équipe pour aider à les maintenir en fonctionnement.
   * Les membres de l'organisation partagent des éléments de prise de décision sur des plate-formes collaboratives accompagnées de guides d'utilisation clairs. Ces personnes sont encouragées à faire usage de méhodes respectueuses de standards ouverts dans leur travail.
   * La plupart des responsables de l'organisation sont ouverts à l'idée de recevoir des commentaires et de mettre en place un environnement dans lequel les gens se sentent libres de pouvoir le faire, et initient eux-même des retours d'expérience pour entamer des discussions.
   * Les membres se sentent habilités et encouragés à partager des opinions constructives sur n'importe quelle question relative à leur travail ou pour lesquelles ils ou elles se sentent passioné·es.
@@ -87,7 +88,7 @@ Dans les organisations fermées, répondre aux sollicitations de l'environnement
   * L'organisation sollicite régulièrement des avis et commentaires, et favorise une méthode claire et accessible pour collecter les retours provenant de sources d'intervenants internes et de parties externes.
   * L'organisation fournit la possibilité à ses membres de découvrir les autres aspects de l'organisation, et favorise l'apprentissage et la formation continue en proposant des programmes et des évènements.
   * Les membres de l'organisation discutent régulièrement leur rôle au sein des objectifs et des stratégies de l'organisation, ainsi que leur progrès dans les projets, les indicateurs clés et les indicateurs de performance.
-  * L'organisation met à disposition des processus structurés, des cades ou des orientations claires pour la prise de décision collective et la résolution de problèmes. Les membres les utilisent soutsystématiquement soutrégulièrement.
+  * L'organisation met à disposition des processus structurés, des cadres ou des orientations claires pour la prise de décision collective et la résolution de problèmes. Les membres les utilisent régulièrement.
   * Les membres comprennent que l'échec est une conséquence acceptable de l'expérimentation, et ils ou elles créent des processus pour discuter régulièrement d'échec et d'amélioration continue.
 
 ### Niveau 3
@@ -155,10 +156,10 @@ Dans les organisations fermées, les membres ont une tendance à agir en fonctio
   * Les dirigeants comprennent qu'ils évoluent en aidant les autres à évoluer. Ils supervisent les membres de l'organisation.
   * Il existe un langage commun pour l'organisation, qui crée une fluidité chez les membres et peut aussi structurer l'identité de l'organisation, et cadrer les discours qui interpellent les nouveaux membres.
 
-##Historique des révisions
+## Historique des révisions
 
 Version 1.0
 Traduit en Août 2017, basé sur la version de Juillet 2017
 
-##Licence
+## Licence
 Attribution - Partage dans les Mêmes Conditions 4.0 International
